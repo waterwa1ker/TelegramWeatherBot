@@ -1,0 +1,376 @@
+2023-09-25 17:19:48,188 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 33056 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 17:19:48,194 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 17:19:50,787 INFO com.example.TelegramBot.TelegramBotApplication [main] Started TelegramBotApplication in 3.169 seconds (JVM running for 4.265)
+2023-09-25 17:19:58,760 INFO com.example.TelegramBot.service.TelegramBot [Weather_adel_bot Telegram Executor] Replied to userАдель
+2023-09-25 17:20:27,010 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 33581 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 17:20:27,014 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 17:20:29,562 INFO com.example.TelegramBot.TelegramBotApplication [main] Started TelegramBotApplication in 3.098 seconds (JVM running for 4.205)
+2023-09-25 17:20:30,249 INFO com.example.TelegramBot.service.TelegramBot [Weather_adel_bot Telegram Executor] Replied to user Адель
+2023-09-25 17:22:40,148 INFO com.example.TelegramBot.service.TelegramBot [Weather_adel_bot Telegram Executor] Replied to user Адель
+2023-09-25 17:24:32,196 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.TelegramBot.TelegramBotApplicationTests], using SpringBootContextLoader
+2023-09-25 17:24:32,203 INFO org.springframework.test.context.support.AbstractContextLoader [main] Could not detect default resource locations for test class [com.example.TelegramBot.TelegramBotApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-09-25 17:24:32,204 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.example.TelegramBot.TelegramBotApplicationTests]: TelegramBotApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-09-25 17:24:32,315 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.example.TelegramBot.TelegramBotApplication for test class com.example.TelegramBot.TelegramBotApplicationTests
+2023-09-25 17:24:32,417 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-09-25 17:24:32,426 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@b1712f3, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@6986bbaf, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4879dfad, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4758820d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@74eb909f, org.springframework.test.context.event.EventPublishingTestExecutionListener@28ec166e, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2eee3069, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2da59753, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@5629510, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4df5bcb4, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@12c7a01b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@13d9b21f]
+2023-09-25 17:24:32,739 WARN org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [main] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/home/lenovo/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+	jar:file:/home/lenovo/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-09-25 17:24:32,757 INFO com.example.TelegramBot.TelegramBotApplicationTests [main] Starting TelegramBotApplicationTests using Java 17.0.8.1 on lenovo-20YJSITD01 with PID 36027 (started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 17:24:32,758 INFO com.example.TelegramBot.TelegramBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 17:24:34,696 INFO com.example.TelegramBot.TelegramBotApplicationTests [main] Started TelegramBotApplicationTests in 2.235 seconds (JVM running for 3.366)
+2023-09-25 17:24:35,152 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:24:50,783 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:24:55,507 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:24:57,680 INFO com.example.TelegramBot.service.TelegramBot [Weather_adel_bot Telegram Executor] Replied to user Адель
+2023-09-25 17:25:00,239 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:25:04,848 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:25:09,929 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:25:14,365 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:25:18,759 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:27:02,374 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.TelegramBot.TelegramBotApplicationTests], using SpringBootContextLoader
+2023-09-25 17:27:02,379 INFO org.springframework.test.context.support.AbstractContextLoader [main] Could not detect default resource locations for test class [com.example.TelegramBot.TelegramBotApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-09-25 17:27:02,380 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.example.TelegramBot.TelegramBotApplicationTests]: TelegramBotApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-09-25 17:27:02,481 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.example.TelegramBot.TelegramBotApplication for test class com.example.TelegramBot.TelegramBotApplicationTests
+2023-09-25 17:27:02,593 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-09-25 17:27:02,605 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@b1712f3, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@6986bbaf, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4879dfad, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4758820d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@74eb909f, org.springframework.test.context.event.EventPublishingTestExecutionListener@28ec166e, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2eee3069, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2da59753, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@5629510, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4df5bcb4, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@12c7a01b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@13d9b21f]
+2023-09-25 17:27:02,957 WARN org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [main] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/home/lenovo/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+	jar:file:/home/lenovo/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-09-25 17:27:02,969 INFO com.example.TelegramBot.TelegramBotApplicationTests [main] Starting TelegramBotApplicationTests using Java 17.0.8.1 on lenovo-20YJSITD01 with PID 37642 (started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 17:27:02,970 INFO com.example.TelegramBot.TelegramBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 17:27:04,872 INFO com.example.TelegramBot.TelegramBotApplicationTests [main] Started TelegramBotApplicationTests in 2.22 seconds (JVM running for 3.302)
+2023-09-25 17:27:05,299 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:93)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:260)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 17:34:43,423 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [Weather_adel_bot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:278)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:304)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:345)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:794)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:483)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:477)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1461)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1066)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2023-09-25 18:30:08,496 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 11846 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:30:08,499 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:30:09,689 WARN org.springframework.context.annotation.AnnotationConfigApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+2023-09-25 18:30:09,703 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-09-25 18:30:09,757 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:801)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:224)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:921)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.example.TelegramBot.TelegramBotApplication.main(TelegramBotApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:310)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:291)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:911)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:788)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:306)
+	... 32 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at com.example.TelegramBot.service.TelegramBot.getBotToken(TelegramBot.java:50)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.getBaseUrl(DefaultAbsSender.java:109)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendMethodRequest(DefaultAbsSender.java:1065)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:1038)
+	at org.telegram.telegrambots.meta.bots.AbsSender.execute(AbsSender.java:64)
+	at com.example.TelegramBot.service.TelegramBot.<init>(TelegramBot.java:32)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 34 common frames omitted
+2023-09-25 18:32:06,474 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 13045 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:32:06,478 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:32:07,581 WARN org.springframework.context.annotation.AnnotationConfigApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+2023-09-25 18:32:07,595 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-09-25 18:32:07,625 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:801)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:224)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:921)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.example.TelegramBot.TelegramBotApplication.main(TelegramBotApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:310)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:291)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:911)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:788)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:306)
+	... 32 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at com.example.TelegramBot.service.TelegramBot.getBotToken(TelegramBot.java:50)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.getBaseUrl(DefaultAbsSender.java:109)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendMethodRequest(DefaultAbsSender.java:1065)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:1038)
+	at org.telegram.telegrambots.meta.bots.AbsSender.execute(AbsSender.java:64)
+	at com.example.TelegramBot.service.TelegramBot.<init>(TelegramBot.java:32)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 34 common frames omitted
+2023-09-25 18:33:04,471 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 13631 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:33:04,475 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:33:05,632 WARN org.springframework.context.annotation.AnnotationConfigApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+2023-09-25 18:33:05,646 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-09-25 18:33:05,679 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:801)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:224)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:921)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.example.TelegramBot.TelegramBotApplication.main(TelegramBotApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:310)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:291)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:911)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:788)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:306)
+	... 32 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at com.example.TelegramBot.service.TelegramBot.getBotToken(TelegramBot.java:50)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.getBaseUrl(DefaultAbsSender.java:109)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendMethodRequest(DefaultAbsSender.java:1065)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:1038)
+	at org.telegram.telegrambots.meta.bots.AbsSender.execute(AbsSender.java:64)
+	at com.example.TelegramBot.service.TelegramBot.<init>(TelegramBot.java:32)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 34 common frames omitted
+2023-09-25 18:33:34,003 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 13975 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:33:34,007 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:33:35,187 WARN org.springframework.context.annotation.AnnotationConfigApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+2023-09-25 18:33:35,201 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-09-25 18:33:35,231 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/config/BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:801)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:224)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:921)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.example.TelegramBot.TelegramBotApplication.main(TelegramBotApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [/home/lenovo/Desktop/TelegramBot/target/classes/com/example/TelegramBot/service/TelegramBot.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:310)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:291)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:911)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:788)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TelegramBot.service.TelegramBot]: Constructor threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:306)
+	... 32 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot invoke "com.example.TelegramBot.config.BotConfig.getToken()" because "this.botConfig" is null
+	at com.example.TelegramBot.service.TelegramBot.getBotToken(TelegramBot.java:50)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.getBaseUrl(DefaultAbsSender.java:109)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendMethodRequest(DefaultAbsSender.java:1065)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:1038)
+	at org.telegram.telegrambots.meta.bots.AbsSender.execute(AbsSender.java:64)
+	at com.example.TelegramBot.service.TelegramBot.<init>(TelegramBot.java:32)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 34 common frames omitted
+2023-09-25 18:35:15,912 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 14975 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:35:15,916 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:35:18,521 INFO com.example.TelegramBot.TelegramBotApplication [main] Started TelegramBotApplication in 3.111 seconds (JVM running for 4.185)
+2023-09-25 18:35:19,296 INFO com.example.TelegramBot.service.TelegramBot [Weather_adel_bot Telegram Executor] Replied to user Адель
+2023-09-25 18:41:09,876 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 18155 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:41:09,880 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:41:12,615 INFO com.example.TelegramBot.TelegramBotApplication [main] Started TelegramBotApplication in 3.226 seconds (JVM running for 4.245)
+2023-09-25 18:41:16,545 INFO com.example.TelegramBot.service.TelegramBot [Weather_adel_bot Telegram Executor] Replied to user Адель
+2023-09-25 18:42:26,000 INFO com.example.TelegramBot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 20.0.2 on lenovo-20YJSITD01 with PID 18993 (/home/lenovo/Desktop/TelegramBot/target/classes started by lenovo in /home/lenovo/Desktop/TelegramBot)
+2023-09-25 18:42:26,005 INFO com.example.TelegramBot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-25 18:42:28,737 INFO com.example.TelegramBot.TelegramBotApplication [main] Started TelegramBotApplication in 3.286 seconds (JVM running for 4.519)
