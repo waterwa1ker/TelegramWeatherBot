@@ -1,0 +1,14 @@
+package com.example.TelegramBot.repository;
+
+import com.example.TelegramBot.model.ActualWeather;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.Optional;
+
+@Repository
+public interface ActualWeatherRepository extends JpaRepository<ActualWeather, Integer> {
+
+    Optional<ActualWeather> findTopByOrderByIdDesc();
+
+}

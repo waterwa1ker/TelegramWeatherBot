@@ -1,9 +1,14 @@
 package com.example.TelegramBot.model;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import javax.persistence.*;
 import javax.validation.constraints.Size;
 import java.sql.Timestamp;
 
+@Getter
+@Setter
 @Entity(name = "usr")
 public class User {
 
@@ -34,46 +39,6 @@ public class User {
         this.firstName = firstName;
         this.lastName = lastName;
         this.userName = userName;
-        this.registeredAt = registeredAt;
-    }
-
-    public long getId() {
-        return id;
-    }
-
-    public void setId(long id) {
-        this.id = id;
-    }
-
-    public String getFirstName() {
-        return firstName;
-    }
-
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
-
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
-
-    public Timestamp getRegisteredAt() {
-        return registeredAt;
-    }
-
-    public void setRegisteredAt(Timestamp registeredAt) {
         this.registeredAt = registeredAt;
     }
 
